@@ -1,7 +1,5 @@
 import React from 'react';
-import P1 from './p1.jsx'; 
-import P2 from './p2.jsx';
-import P3 from './p3.jsx';
+import Part from './Part';
 
 const Content = (props) => {
   const { parts } = props;
