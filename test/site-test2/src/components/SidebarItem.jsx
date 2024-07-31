@@ -22,6 +22,7 @@ export default function SidebarItem({item}){
         )
     }else{
         return (
+            
             <Link to={item.path || "#"} className="sidebar-item plain">
                 { item.icon && <i className={item.icon}></i> }
                 {item.title}
