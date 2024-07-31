@@ -1,0 +1,16 @@
+[
+    {
+        "title": "finnish nationals",
+        "date": "14.06.24",
+        "icon": "bi-twitch",
+        "location": "finland",
+        "description": "tää on testi eventti"
+    },
+    {
+        "title": "swedish nationals",
+        "date": "1.11.24",
+        "icon": "bi-twitch",
+        "location": "finland",
+        "description": "tää on testi eventti number two"
+    }
+]
